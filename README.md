@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Chabbi</h1>
+<h1 align="center">Hi 👋, I'm Bilal Chabbi</h1>
 <h3 align="center">A passionate Cloud-Architect | Devops Engineer | Azure Cloud-Consultant from Austria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xchabbi" alt="0xchabbi" /></a> </p>
