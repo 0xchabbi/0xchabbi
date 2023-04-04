@@ -10,7 +10,6 @@
 - Programming languages: I am comfortable with C# and PHP.
 - Databases: I have experience working with MongoDB and MySQL.
 - Linux: I have experience using and administering Linux systems.
-- 
 
 # Projects
 - Check out my Repo 
