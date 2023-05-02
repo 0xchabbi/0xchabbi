@@ -18,7 +18,7 @@
 I'm always looking to learn and contribute to open-source projects.
 
 # Goals
-While I have experience in Azure and Kubernetes, I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. I'm currently working towards gaining more knowledge in Azure Cloud and Kubernetes.
+While I have experience in Azure and Kubernetes, I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. I'm currently working towards gaining more knowledge in Azure Cloud and Kubernetes and some CNCF Tools
 
 # Contact
 If you want to get in touch, you can find me on LinkedIn. I'm always happy to chat about anything related to software development, Cloud-Architecture, Linux, Azure, or Kubernetes.
