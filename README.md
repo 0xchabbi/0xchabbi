@@ -4,18 +4,18 @@
 # Skills
 
 - Azure and Azure services: I have experience in deploying, configuring and managing services on Azure such as Azure       Kubernetes Service, Azure Container Instances, Azure Storage, Azure Functions, and more.
-- Kubernetes: I am familiar with Kubernetes and can deploy and manage containerized applications using Kubernetes.
+- Kubernetes: I am familiar with Kubernetes and can deploy, manage and troubleshoot containerized applications using Kubernetes.
 - Azure DevOps: I have experience in setting up pipelines, building and releasing applications using Azure DevOps.
 - Terraform: I am proficient in using Terraform to manage infrastructure as code.
 - Programming languages: I am comfortable with C# and PHP.
-- Databases: I have experience working with MongoDB and MySQL.
+- Databases: I have experience working with MongoDB, Azure CosmosDB, Microsoft SQL-Server and MySQL.
 - Linux: I have experience using and administering Linux systems.
 
 # Projects
 - Check out my Repo 
 
 # Contributions
-I'm always looking to learn and contribute to open-source projects.
+I'm always looking to learn and contribute to open-source projects. You can check my contributions in Terraform, Isio or Microsoft.  
 
 # Goals
 While I have experience in Azure and Kubernetes, I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. I'm currently working towards gaining more knowledge in Azure Cloud and Kubernetes and some CNCF Tools
