@@ -15,7 +15,7 @@
 - Check out my Repo 
 
 # Contributions
-I'm always looking to learn and contribute to open-source projects. You can check my contributions in Terraform, Isio or Microsoft.  
+I'm always looking to learn and contribute to open-source projects. You can check my contributions in Terraform, Istio or Microsoft.  
 
 # Goals
 While I have experience in Azure and Kubernetes, I'm always looking to expand my knowledge and stay up-to-date with the latest technologies. I'm currently working towards gaining more knowledge in Azure Cloud and Kubernetes and some CNCF Tools
